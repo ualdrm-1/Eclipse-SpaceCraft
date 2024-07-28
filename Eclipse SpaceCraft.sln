@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Eclipse SpaceCraft", "Eclipse SpaceCraft\Eclipse SpaceCraft.vcxproj", "{2CCA11BF-767C-4BFD-AB61-477F7C018604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CCA11BF-767C-4BFD-AB61-477F7C018604}.Debug|x64.ActiveCfg = Debug|x64
+		{2CCA11BF-767C-4BFD-AB61-477F7C018604}.Debug|x64.Build.0 = Debug|x64
+		{2CCA11BF-767C-4BFD-AB61-477F7C018604}.Debug|x86.ActiveCfg = Debug|Win32
+		{2CCA11BF-767C-4BFD-AB61-477F7C018604}.Debug|x86.Build.0 = Debug|Win32
+		{2CCA11BF-767C-4BFD-AB61-477F7C018604}.Release|x64.ActiveCfg = Release|x64
+		{2CCA11BF-767C-4BFD-AB61-477F7C018604}.Release|x64.Build.0 = Release|x64
+		{2CCA11BF-767C-4BFD-AB61-477F7C018604}.Release|x86.ActiveCfg = Release|Win32
+		{2CCA11BF-767C-4BFD-AB61-477F7C018604}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C118B01F-1708-4BC2-BC2B-9358E6F9D93B}
+	EndGlobalSection
+EndGlobal
